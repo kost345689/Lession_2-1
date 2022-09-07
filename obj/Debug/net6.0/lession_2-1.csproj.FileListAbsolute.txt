@@ -1,0 +1,15 @@
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\lession_2-1.csproj.AssemblyReference.cache
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\lession_2-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\lession_2-1.AssemblyInfoInputs.cache
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\lession_2-1.AssemblyInfo.cs
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\lession_2-1.csproj.CoreCompileInputs.cache
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\bin\Debug\net6.0\lession_2-1.exe
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\bin\Debug\net6.0\lession_2-1.deps.json
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\bin\Debug\net6.0\lession_2-1.runtimeconfig.json
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\bin\Debug\net6.0\lession_2-1.dll
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\bin\Debug\net6.0\lession_2-1.pdb
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\lession_2-1.dll
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\refint\lession_2-1.dll
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\lession_2-1.pdb
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\lession_2-1.genruntimeconfig.cache
+C:\Users\Алейников Константин\Desktop\3\lession_2-1\obj\Debug\net6.0\ref\lession_2-1.dll
